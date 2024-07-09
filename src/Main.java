@@ -33,7 +33,7 @@ public class Main {
 
         AppLineare f = new AppLineare(funzione);
 
-        out.writeln("funzione trovata:");
+        out.writeln("\n====================\n\nfunzione trovata:\n");
         out.writeln(f);
         
     }
